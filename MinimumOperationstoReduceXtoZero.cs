@@ -51,3 +51,10 @@ public class Solution {
     }
     
 }
+
+
+/*
+Algorithm : Find the longest subarray whose sum is Sum(nums)-X
+nums[i] > 0 =======Two pointers
+
+*/
